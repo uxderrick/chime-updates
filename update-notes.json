@@ -1,62 +1,68 @@
 {
-  "version": "1.0.0",
-  "releaseDate": "November 2024",
-  "minAppVersion": "1.0.0",
+  "version": "1.3.0",
+  "releaseDate": "January 2025",
+  "minAppVersion": "1.3.0",
   "maxAppVersion": null,
   "items": [
     {
-      "icon": "star.fill",
-      "title": "Welcome to Chime!",
-      "description": "Never miss another meeting with ADHD-friendly full-screen alerts",
+      "icon": "arrow.down.circle.fill",
+      "title": "Data Export",
+      "description": "Export all your meeting data and statistics for GDPR compliance",
       "category": "feature"
+    },
+    {
+      "icon": "checkmark.circle.fill",
+      "title": "Enhanced Todoist Integration",
+      "description": "Faster 1-minute sync and improved task performance with smart limits",
+      "category": "feature"
+    },
+    {
+      "icon": "sparkles",
+      "title": "Dynamic Update Notes",
+      "description": "Stay informed with real-time update notifications from GitHub",
+      "category": "feature"
+    },
+    {
+      "icon": "bolt.fill",
+      "title": "Ultra-Fast Sync Mode",
+      "description": "Lightning-fast calendar synchronization for instant updates",
+      "category": "improvement"
+    },
+    {
+      "icon": "chart.bar.fill",
+      "title": "Meeting Analytics",
+      "description": "Track meeting lead time and platform usage with detailed analytics",
+      "category": "feature"
+    },
+    {
+      "icon": "link.circle.fill",
+      "title": "Meeting Link Manager",
+      "description": "Improved link history tracking and auto-fill for frequently used links",
+      "category": "improvement"
+    },
+    {
+      "icon": "calendar.badge.clock",
+      "title": "Reminder Integration",
+      "description": "Seamlessly manage Apple Reminders alongside your meetings",
+      "category": "feature"
+    },
+    {
+      "icon": "rectangle.grid.2x2.fill",
+      "title": "Revamped UI",
+      "description": "Cleaner meeting list layout and improved navigation controls",
+      "category": "improvement"
     },
     {
       "icon": "bell.badge.fill",
-      "title": "Impossible-to-Miss Alerts",
-      "description": "FaceTime-inspired pulsating red border alerts that demand attention",
-      "category": "feature"
+      "title": "Better Alert Tracking",
+      "description": "Enhanced platform detection and attendee count tracking for alerts",
+      "category": "improvement"
     },
     {
-      "icon": "calendar",
-      "title": "Smart Calendar Sync",
-      "description": "Automatically syncs with all your macOS calendars and detects meeting links",
-      "category": "feature"
-    },
-    {
-      "icon": "video.fill",
-      "title": "30+ Meeting Platforms",
-      "description": "One-click join for Zoom, Teams, Meet, and 27 other platforms",
-      "category": "feature"
-    },
-    {
-      "icon": "clock.arrow.circlepath",
-      "title": "Flexible Alert Timing",
-      "description": "Set global or per-meeting alert times from 1-30 minutes before",
-      "category": "feature"
-    },
-    {
-      "icon": "checklist",
-      "title": "Todoist Integration",
-      "description": "See your tasks alongside meetings for complete day management",
-      "category": "feature"
-    },
-    {
-      "icon": "speaker.wave.3.fill",
-      "title": "ADHD-Friendly Sounds",
-      "description": "5 rotating alert sounds to prevent habituation",
-      "category": "feature"
-    },
-    {
-      "icon": "chart.line.uptrend.xyaxis",
-      "title": "Meeting Statistics",
-      "description": "Track meetings joined, missed, and total time in meetings",
-      "category": "feature"
-    },
-    {
-      "icon": "lock.shield.fill",
-      "title": "Privacy First",
-      "description": "No personal data collected, GDPR compliant, local data storage",
-      "category": "security"
+      "icon": "heart.fill",
+      "title": "Daily Health Ping",
+      "description": "Automatic health monitoring to ensure the app is running smoothly",
+      "category": "improvement"
     }
   ]
 }
