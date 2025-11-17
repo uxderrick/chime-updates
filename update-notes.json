@@ -1,68 +1,25 @@
 {
-  "version": "1.3.0",
-  "releaseDate": "November 7, 2025",
-  "minAppVersion": "1.3.0",
-  "maxAppVersion": null,
+  "version": "1.4.0",
+  "releaseDate": "January 2025",
+  "minAppVersion": "1.4.0",
   "items": [
     {
       "icon": "arrow.down.circle.fill",
-      "title": "Data Export",
-      "description": "Export all your meeting data and statistics for GDPR compliance",
+      "title": "Update Notifications",
+      "description": "Stay on the latest version with gentle reminders when updates are available. No interruptions—just a small banner in your menu bar.",
       "category": "feature"
     },
     {
-      "icon": "checkmark.circle.fill",
-      "title": "Enhanced Todoist Integration",
-      "description": "Faster 1-minute sync and improved task performance with smart limits",
+      "icon": "star.fill",
+      "title": "Review Requests",
+      "description": "After using Chime for a week, we'll ask for a review if you're enjoying it. You can always say no or remind yourself later.",
       "category": "feature"
     },
     {
-      "icon": "sparkles",
-      "title": "Dynamic Update Notes",
-      "description": "Stay informed with real-time update notifications from GitHub",
-      "category": "feature"
-    },
-    {
-      "icon": "bolt.fill",
-      "title": "Ultra-Fast Sync Mode",
-      "description": "Lightning-fast calendar synchronization for instant updates",
-      "category": "improvement"
-    },
-    {
-      "icon": "chart.bar.fill",
-      "title": "Meeting Analytics",
-      "description": "Track meeting lead time and platform usage with detailed analytics",
-      "category": "feature"
-    },
-    {
-      "icon": "link.circle.fill",
-      "title": "Meeting Link Manager",
-      "description": "Improved link history tracking and auto-fill for frequently used links",
-      "category": "improvement"
-    },
-    {
-      "icon": "calendar.badge.clock",
-      "title": "Reminder Integration",
-      "description": "Seamlessly manage Apple Reminders alongside your meetings",
-      "category": "feature"
-    },
-    {
-      "icon": "rectangle.grid.2x2.fill",
-      "title": "Revamped UI",
-      "description": "Cleaner meeting list layout and improved navigation controls",
-      "category": "improvement"
-    },
-    {
-      "icon": "bell.badge.fill",
-      "title": "Better Alert Tracking",
-      "description": "Enhanced platform detection and attendee count tracking for alerts",
-      "category": "improvement"
-    },
-    {
-      "icon": "heart.fill",
-      "title": "Daily Health Ping",
-      "description": "Automatic health monitoring to ensure the app is running smoothly",
-      "category": "improvement"
+      "icon": "ant.fill",
+      "title": "Bug Fixes & Improvements",
+      "description": "Better performance, improved App Store integration, and various under-the-hood optimizations.",
+      "category": "bugfix"
     }
   ]
 }
