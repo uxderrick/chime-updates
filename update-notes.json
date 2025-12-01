@@ -1,25 +1,90 @@
-{
-  "version": "1.4.0",
-  "releaseDate": "January 2025",
-  "minAppVersion": "1.4.0",
-  "items": [
-    {
-      "icon": "arrow.down.circle.fill",
-      "title": "Update Notifications",
-      "description": "Stay on the latest version with gentle reminders when updates are available. No interruptions—just a small banner in your menu bar.",
-      "category": "feature"
-    },
-    {
-      "icon": "star.fill",
-      "title": "Review Requests",
-      "description": "After using Chime for a week, we'll ask for a review if you're enjoying it. You can always say no or remind yourself later.",
-      "category": "feature"
-    },
-    {
-      "icon": "ant.fill",
-      "title": "Bug Fixes & Improvements",
-      "description": "Better performance, improved App Store integration, and various under-the-hood optimizations.",
-      "category": "bugfix"
-    }
-  ]
-}
+[
+  {
+    "version": "1.6.0",
+    "releaseDate": "December 2024",
+    "minAppVersion": "1.6.0",
+    "maxAppVersion": null,
+    "items": [
+      {
+        "icon": "hand.raised.fill",
+        "title": "Clearer Privacy Controls",
+        "description": "Choose between essential-only or detailed usage analytics with transparent explanations",
+        "category": "improvement"
+      },
+      {
+        "icon": "chart.bar.fill",
+        "title": "Enhanced Analytics Accuracy",
+        "description": "Improved data collection for better insights into app performance",
+        "category": "improvement"
+      },
+      {
+        "icon": "text.bubble.fill",
+        "title": "Better Messaging",
+        "description": "Updated UI text to clearly distinguish between essential and detailed data collection",
+        "category": "improvement"
+      }
+    ]
+  },
+  {
+    "version": "1.0.0",
+    "releaseDate": "January 2025",
+    "minAppVersion": "1.0.0",
+    "maxAppVersion": null,
+    "items": [
+      {
+        "icon": "star.fill",
+        "title": "Welcome to Chime!",
+        "description": "Never miss another meeting with ADHD-friendly full-screen alerts",
+        "category": "feature"
+      },
+      {
+        "icon": "bell.badge.fill",
+        "title": "Impossible-to-Miss Alerts",
+        "description": "FaceTime-inspired pulsating red border alerts that demand attention",
+        "category": "feature"
+      },
+      {
+        "icon": "calendar",
+        "title": "Smart Calendar Sync",
+        "description": "Automatically syncs with all your macOS calendars and detects meeting links",
+        "category": "feature"
+      },
+      {
+        "icon": "video.fill",
+        "title": "30+ Meeting Platforms",
+        "description": "One-click join for Zoom, Teams, Meet, and 27 other platforms",
+        "category": "feature"
+      },
+      {
+        "icon": "clock.arrow.circlepath",
+        "title": "Flexible Alert Timing",
+        "description": "Set global or per-meeting alert times from 1-30 minutes before",
+        "category": "feature"
+      },
+      {
+        "icon": "checklist",
+        "title": "Todoist Integration",
+        "description": "See your tasks alongside meetings for complete day management",
+        "category": "feature"
+      },
+      {
+        "icon": "speaker.wave.3.fill",
+        "title": "ADHD-Friendly Sounds",
+        "description": "5 rotating alert sounds to prevent habituation",
+        "category": "feature"
+      },
+      {
+        "icon": "chart.line.uptrend.xyaxis",
+        "title": "Meeting Statistics",
+        "description": "Track meetings joined, missed, and total time in meetings",
+        "category": "feature"
+      },
+      {
+        "icon": "lock.shield.fill",
+        "title": "Privacy First",
+        "description": "No personal data collected, GDPR compliant, local data storage",
+        "category": "security"
+      }
+    ]
+  }
+]
