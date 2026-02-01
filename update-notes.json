@@ -1,8 +1,28 @@
 [
   {
+    "version": "2.0.1",
+    "releaseDate": "February 2025",
+    "minAppVersion": "2.0.1",
+    "maxAppVersion": null,
+    "items": [
+      {
+        "icon": "checkmark.circle.fill",
+        "title": "Calendar Stability Fix",
+        "description": "Fixed issue where enabled calendars would unexpectedly disable themselves during network disruptions or iCloud sync delays",
+        "category": "fix"
+      },
+      {
+        "icon": "calendar.badge.checkmark",
+        "title": "Persistent Calendar Preferences",
+        "description": "Your calendar selections now stay consistent even when calendars are temporarily unavailable",
+        "category": "improvement"
+      }
+    ]
+  },
+  {
     "version": "1.6.0",
     "releaseDate": "December 2024",
-    "minAppVersion": "2.0.0",
+    "minAppVersion": "1.6.0",
     "maxAppVersion": null,
     "items": [
       {
